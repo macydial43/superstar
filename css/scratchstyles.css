@@ -1,0 +1,45 @@
+.title{
+    color: purple;
+    font-family: 'Gv. time';
+    font-size: 50px;
+    padding: 20px;
+}
+
+.tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+
+.topdiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color:green
+    
+    
+}
+.lastdiv{
+    font-family: 'Gv. time';
+    font-size: 30px;
+    color: green
+    
+}
+
+
+.background{
+    background-color: orange;
+}
+
+
+  .headertext{
+    font-family:"Replay Demo";
+    color: purple;
+    font-size: 30px;
+  }
+
+  .bodytext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+

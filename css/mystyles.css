@@ -1,0 +1,177 @@
+.bannertext {
+    font-family: 'Replay Demo';
+    font-size: 30px;
+    color: pink;
+    
+}
+
+.emaillinkedin {
+    font-family: 'Replay Demo';
+    font-size: 40px;
+    color: pink;
+    text-align: center;
+    
+}
+
+.accolades{
+    font-family: 'Replay Demo';
+    font-size: 40px;
+    color: red;
+
+}
+
+.menufont{
+    font-family: 'Replay Demo';
+    font-size: 50px;
+    color: pink;
+
+}
+.title{
+    color: red;
+    font-family: 'Video Dames';
+    font-size: 200px;
+    padding: 20px;
+}
+
+.portfolio{
+    font-family: 'Replay Demo';
+    font-size: 55px;
+    color: pink; 
+    text-align: center;
+}
+
+.about{
+    font-family: 'Replay Demo';
+    font-size: 55px;
+    color: red; 
+    text-align: center;
+}
+
+.contactme{
+    font-family: 'Replay Demo';
+    font-size: 55px;
+    color: pink; 
+    text-align: center;
+}
+
+.locationfont{
+    font-family: 'Replay Demo';
+    font-size: 55px;
+    color: red;
+}
+
+.bannercolor{
+    background-color: red;
+}
+
+.backgroundcolor{
+    background-color: pink;
+}
+
+.portfoliobackground{
+    background-color: red;
+}
+
+.aboutbackground{
+    background-color: pink;
+}
+
+.contactmebackground{
+    background-color: red;
+}
+
+.bottombannerbackground{
+    background-color: pink;
+}
+
+.vbottoncolor{
+    background-color: red;
+}
+
+.dividercolorpink {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .divider-custom .dividercolorlinepink {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: pink;
+    border-radius: 1rem;
+    border-color: pink;
+  }
+
+  .divider-custom .dividerpinkicon {
+    color: pink;
+    font-size: 2rem;
+  }
+
+
+  .dividercolorred {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .divider-custom .dividercolorlinered {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: red;
+    border-radius: 1rem;
+    border-color: red;
+  }
+
+  .divider-custom .dividerredicon {
+    color: red;
+    font-size: 2rem;
+  }
+
+
+ .aboutbodytext{
+
+    color: red;
+    font-family: 'Replay Demo';
+    font-size: 100 px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+
+ }
+ .biggertext{
+    font-size:25px;
+ }
+
+ .resumetext{
+    font-family: 'Replay Demo';
+    font-size: 33px;
+    color:pink;
+    text-align: left;
+
+ }
+
+ .subresume{
+    font-family: 'Replay Demo';
+    font-size: 50px;
+    color:pink;
+    text-align: left;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
